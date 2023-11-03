@@ -1,4 +1,6 @@
-# project-template
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=32&duration=4000&pause=400&color=EE7600&vCenter=true&multiline=false&width=750&height=100&lines=Project-Template;)](https://git.io/typing-svg)
+
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/license/mit/)
 
 A template for anyone interested in engaging in technical projects involving code.
 

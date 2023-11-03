@@ -4,6 +4,10 @@
 
 A template for anyone interested in engaging in technical projects involving code.
 
+This enables you to:
+- **NOT** worry about Python version
+- **NOT** worry about Python dependencies
+- **NOT** worry creating or activating virtual environments
 
 ## Getting Started
 
@@ -14,7 +18,9 @@ bash setup.sh
 
 Thats it! :)
 
-After this, you can add whatever code you'd like inside the src folder!
+After this, you can add whatever code you'd like inside the src folder! Never worry about reproducing code. When you enter your project folder, you are ready to start coding, as programming was meant to be!
+
+> -  Disclaimer: Modify the README and LICENSE as you see fit!
 
 ## Non-Python Project
 

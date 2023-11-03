@@ -9,6 +9,11 @@ This enables you to:
 - **NOT** worry about Python dependencies
 - **NOT** worry creating or activating virtual environments
 
+All you need are:
+- [Python](https://www.python.org)
+- [Pyenv](https://github.com/pyenv/pyenv)
+- [Direnv](https://direnv.net)
+
 ## Getting Started
 
 Run the following:
